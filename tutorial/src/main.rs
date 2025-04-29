@@ -1,8 +1,13 @@
-fn main() {
-    let y = {
-        let x = 3;
-        x + 1
-    };
+fn main () {
+    let x = five();
+    let y = plus_five(x);
+    println!("The value of x is {x},{y}")
+}
 
-    println!("The value of y is: {y}");
+fn five() -> i32 {
+    5
+}
+
+fn plus_five(x:i32) ->i32 {
+    x + 5
 }
