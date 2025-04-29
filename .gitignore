@@ -1,2 +1,4 @@
 *
-!main.rs
+!tutorial/
+!tutorial/src/
+!tutorial/src/main.rs
