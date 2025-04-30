@@ -2,4 +2,7 @@
 !tutorial/
 !tutorial/src/
 !tutorial/src/main.rs
+
+!tutorial_controls/
+!tutorial_controls/src/
 !tutorial_controls/src/main.rs
