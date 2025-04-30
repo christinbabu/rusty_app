@@ -1,7 +1,7 @@
 fn main () {
     let x = five();
     let y = plus_five(x);
-    println!("The value of x is {x},{y}")
+    println!("The value of x is {x},{y}");
 }
 
 fn five() -> i32 {
