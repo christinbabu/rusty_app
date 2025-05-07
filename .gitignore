@@ -6,3 +6,7 @@
 !tutorial_controls/
 !tutorial_controls/src/
 !tutorial_controls/src/main.rs
+
+!loops
+!loops/src/
+!loops/src/main.rs

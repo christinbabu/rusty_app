@@ -4,6 +4,11 @@ fn main() {
     let sentence = "The_typed numbers are";
     let z= make_a_sentence(x, y, sentence);
     println!("The value of x is {},{},{}", x, y, z);
+
+    let condition = false;
+
+    let number = if condition {5} else {10};
+    println!("The number is {}", number)
 }
 
 fn five() -> i32 {
